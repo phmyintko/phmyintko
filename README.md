@@ -7,7 +7,7 @@
 
 <br>
 
-### I'm [Fone](https://www.linkedin.com/in/phmyintko/) and welcome to my GitHub Profile<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cms2ajEwMzExaGZybHBoeHRpMXc5OWR6OHFiMXEyZDRncHIxY3o0biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/moipO3iUdRpNBMLCwk/giphy.gif" width="30">
+### I'm [Phone](https://www.linkedin.com/in/phmyintko/) and welcome to my GitHub Profile<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cms2ajEwMzExaGZybHBoeHRpMXc5OWR6OHFiMXEyZDRncHIxY3o0biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/moipO3iUdRpNBMLCwk/giphy.gif" width="30">
 
 <br>
 
