@@ -11,7 +11,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=700&pause=700&color=1E60FF&background=FFFFFF&center=true&vCenter=true&width=250&lines=Keep+Learning.;Keep+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=700&pause=700&color=1E60FF&background=FFFFFF&center=true&vCenter=true&width=250&lines=Keep+Learning.;Keep+Building.;Keep+Improving.)](https://git.io/typing-svg)
 
 
 
