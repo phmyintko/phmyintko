@@ -7,11 +7,11 @@
 
 <br>
 
-### I'm [Phone](https://www.linkedin.com/in/phmyintko/) and welcome to my GitHub Profile<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cms2ajEwMzExaGZybHBoeHRpMXc5OWR6OHFiMXEyZDRncHIxY3o0biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/moipO3iUdRpNBMLCwk/giphy.gif" width="30">
+### I'm [Phone](https://www.linkedin.com/in/phmyintko/) and welcome to my GitHub Profile!
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=700&pause=700&color=1E60FF&background=FFFFFF&center=true&vCenter=true&width=250&lines=Always+Learning.;Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=700&pause=700&color=1E60FF&background=FFFFFF&center=true&vCenter=true&width=250&lines=Keep+Learning.;Keep+Building.)](https://git.io/typing-svg)
 
 
 
