@@ -11,7 +11,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=700&pause=700&color=1E60FF&background=FFFFFF&center=true&vCenter=true&width=250&lines=Keep+Learning.;Keep+Building.;Keep+Improving.)](https://git.io/typing-svg)
 
 
 
@@ -22,8 +21,22 @@
 <a href="mailto:phmyintko@gmail.com">
   <img src="https://img.shields.io/badge/phmyintko-white?style=social&logo=gmail" alt="Gmail">
 </a>
+<br>
+<br>
 
 
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1600&size=24&duration=3800&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&height=180&lines=Keep+Learning.;Keep+Building.;Keep+Improving." alt="Typing SVG" /></a>
+
+
+</div>
+
+🌱 Fresh in tech. New to this space.
+
+🧳 Former marketer transitioning into data analytics.
+
+📁 Building portfolio projects with SQL.
+
+👨‍💻 Learning Pandas, NumPy, and Matplotlib.
 
 
 <!--
