@@ -36,7 +36,7 @@
 
 📁 Building portfolio projects with SQL.
 
-👨‍💻 Learning Pandas, NumPy, and Matplotlib.
+👨‍💻 Learning Python and data visualization.
 
 
 <!--
